@@ -48,5 +48,5 @@ spring:
       enabled: false
 logging:
   level:
-    run.halo.app: INFO
+    run.halo.app: DEBUG
   path: ${user.home}/.halo/logs
